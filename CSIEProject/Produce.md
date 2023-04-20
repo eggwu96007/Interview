@@ -13,7 +13,7 @@
 
 ![image](./img/5.png)
 
-3. 揀貨Demo畫面
+3. 揀貨Demo畫面(建議使用google chrome)
 
 
 
