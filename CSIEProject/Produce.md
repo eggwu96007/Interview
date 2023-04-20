@@ -16,5 +16,9 @@
 3. 揀貨Demo畫面
 
 
-https://user-images.githubusercontent.com/62127327/233288088-7cfd26d8-6775-495a-bfed-ed7715aacbab.mp4
+
+
+
+https://user-images.githubusercontent.com/62127327/233289471-3238d57e-508c-4500-9848-d3161760022a.mp4
+
 
