@@ -14,3 +14,7 @@
 ![image](./img/5.png)
 
 3. 揀貨Demo畫面
+
+
+https://user-images.githubusercontent.com/62127327/233288088-7cfd26d8-6775-495a-bfed-ed7715aacbab.mp4
+
