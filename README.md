@@ -1,4 +1,4 @@
-# View About 3mins
+# View About 1mins
 # Some Project during my study in university
 ## 1. Android APP (JAVA) -TeamWork
 - [Project Produce](./AndroidAPP/Produce.md)
