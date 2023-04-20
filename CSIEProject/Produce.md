@@ -6,7 +6,10 @@
 ![image](./img/3.png)
 # 功能說明
 1. 掃描qrcode進入揀貨清單
+
 ![image](./img/4.png)
+
 2. 進入清單畫面
+
 ![image](./img/5.png)
 3. 揀貨Demo畫面
