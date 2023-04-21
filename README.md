@@ -1,4 +1,4 @@
-# 1.[CV](https://drive.google.com/file/d/1FWY0J58ojXL-jp9ZEmEFEZb0U8tOPhwV/view?usp=sharing)
+# 1.[履歷－CV](https://drive.google.com/file/d/1FWY0J58ojXL-jp9ZEmEFEZb0U8tOPhwV/view?usp=sharing)
 # 2.Some Project during my study in university
 ## 1. Android APP (JAVA) -TeamWork
 - [Project Produce](./AndroidAPP/Produce.md)
