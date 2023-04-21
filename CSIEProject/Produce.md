@@ -13,8 +13,16 @@
 
 ![image](./img/5.png)
 
-3. 揀貨Demo畫面
+3. 揀貨Demo畫面(建議使用google chrome)
 
 
-https://user-images.githubusercontent.com/62127327/233288088-7cfd26d8-6775-495a-bfed-ed7715aacbab.mp4
+
+
+
+https://user-images.githubusercontent.com/62127327/233289746-5608d449-8779-40ce-8670-8f2ef755a333.mp4
+
+
+
+
+
 
